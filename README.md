@@ -8,5 +8,5 @@
 
 ## Open Terminal
 
-1.run mongod(27017 default port)
-2.run server(port 3000)
+1. run mongod(port 27017)
+2. run server at port 3000
