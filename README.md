@@ -7,5 +7,6 @@
 3. node app.js
 
 ## Open Terminal
-run mongod(27017 default port)
-run server(port 3000)
+
+1.run mongod(27017 default port)
+2.run server(port 3000)
